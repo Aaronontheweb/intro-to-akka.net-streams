@@ -53,7 +53,7 @@ RUN dotnet_sdk_version=5.0.102 \
     && dotnet help
 
 # Copy notebooks
-COPY ./samples/notebooks/ ${HOME}/Notebooks/
+COPY ./notebooks/ ${HOME}/Notebooks/
 
 # Add package sources
 RUN echo "\
