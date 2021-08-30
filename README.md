@@ -14,3 +14,4 @@ Introduction to [Akka.NET Streams](https://getakka.net/articles/streams/introduc
 ## Other Code Samples
 
 * [Akka.Cluster.StreamingStatus](https://github.com/Aaronontheweb/Akka.Cluster.StreamingStatus) - an [Alpakka](https://alpakka.getakka.net/) + [Petabridge.Cmd](https://cmd.petabridge.com/) SignalR-enabled cluster status change visualizer.
+* [Akka.Streams.Benchmark](https://github.com/Aaronontheweb/Akka.Streams.Benchmark) - a benchmark used to demonstrate the power of adding and removing simple flow changes, such as batching, for significant performance side-effects with Akka.Streams flows.
